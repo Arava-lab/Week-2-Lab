@@ -1,16 +1,38 @@
-# Customize Your GitHub Copilot Experience
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 📘 Assignment: Customize Your GitHub Copilot Experience
 
-Hey Arava-lab!
+## 🎯 Objective
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Learn to navigate a shared repository, run the provided starter code, and open the linked exercise issue to submit your work. This assignment helps you become comfortable with the project structure and tooling used in this course.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 📝 Tasks
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Arava-lab/Week-2-Lab/issues/1)
+### 🛠️ Explore the repository
+
+#### Description
+Open the project in your editor and inspect the folder layout. Identify the `assignments/` subfolders and the `templates/assignment-template.md` file to understand the expected structure.
+
+#### Requirements
+Completed step should:
+
+- Show that you can locate an assignment folder (for example, `python-basics/`).
+- Open the `starter-code.py` for that assignment and run it locally.
+
+### 🛠️ Complete and submit the exercise
+
+#### Description
+Follow the link to the exercise issue and complete the requested tasks. Use the starter code as a starting point, and update or add files according to the assignment template.
+
+#### Requirements
+Completed submission should:
+
+- Include an updated assignment README or new files that follow `templates/assignment-template.md`.
+- Demonstrate working code (e.g., `starter-code.py` runs without errors).
+- Link your changes or submission in the exercise issue: https://github.com/Arava-lab/Week-2-Lab/issues/1
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+If you have questions, reach out on the issue tracker or message the course staff.
+
+&copy; 2025 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
 
