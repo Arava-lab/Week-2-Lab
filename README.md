@@ -1,38 +1,37 @@
+<div align="center">
 
-# 📘 Assignment: Customize Your GitHub Copilot Experience
+# 🎉 Congratulations Arava-lab! 🎉
 
-## 🎯 Objective
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Learn to navigate a shared repository, run the provided starter code, and open the linked exercise issue to submit your work. This assignment helps you become comfortable with the project structure and tooling used in this course.
+### 🌟 You've successfully completed the exercise! 🌟
 
-## 📝 Tasks
+## 🚀 Share Your Success!
 
-### 🛠️ Explore the repository
+**Show off your new skills and inspire others!**
 
-#### Description
-Open the project in your editor and inspect the folder layout. Identify the `assignments/` subfolders and the `templates/assignment-template.md` file to understand the expected structure.
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FArava-lab%2FWeek-2-Lab%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FArava-lab%2FWeek-2-Lab%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FArava-lab%2FWeek-2-Lab%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-#### Requirements
-Completed step should:
+### 🎯 What's Next?
 
-- Show that you can locate an assignment folder (for example, `python-basics/`).
-- Open the `starter-code.py` for that assignment and run it locally.
+**Keep the momentum going!**
 
-### 🛠️ Complete and submit the exercise
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Arava-lab/Week-2-Lab/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-#### Description
-Follow the link to the exercise issue and complete the requested tasks. Use the starter code as a starting point, and update or add files according to the assignment template.
+*There's no better way to learn than building things!* 🚀
 
-#### Requirements
-Completed submission should:
-
-- Include an updated assignment README or new files that follow `templates/assignment-template.md`.
-- Demonstrate working code (e.g., `starter-code.py` runs without errors).
-- Link your changes or submission in the exercise issue: https://github.com/Arava-lab/Week-2-Lab/issues/1
+</div>
 
 ---
 
-If you have questions, reach out on the issue tracker or message the course staff.
-
-&copy; 2025 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
